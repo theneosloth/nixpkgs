@@ -23213,6 +23213,8 @@ with pkgs;
 
   tcllib = callPackage ../development/libraries/tcllib { };
 
+  tclnacl = callPackage ../development/libraries/tclnacl { };
+
   tcltls = callPackage ../development/libraries/tcltls { };
 
   tclx = callPackage ../development/libraries/tclx { };

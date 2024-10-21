@@ -15104,6 +15104,12 @@
     githubId = 50854675;
     name = "Nelson Jeppesen";
   };
+  neosloth = {
+    email = "neosloth@sent.com";
+    github = "theneosloth";
+    githubId = 1973649;
+    name = "Stefan Kuznetsov";
+  };
   neonfuz = {
     email = "neonfuz@gmail.com";
     github = "neonfuz";
