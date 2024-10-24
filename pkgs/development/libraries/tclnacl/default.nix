@@ -10,7 +10,8 @@ tcl.mkTclDerivation rec {
 
   meta = with lib; {
     homepage = "https://fossil.sowaswie.de/nacl/home";
-    description = "NaCl (pronounced "salt") is a new easy-to-use high-speed software library for network communication, encryption, decryption, signatures, etc.";
+    description = "NaCl (pronounced " salt
+      ") is a new easy-to-use high-speed software library for network communication, encryption, decryption, signatures, etc.";
     license = licenses.bsd3;
     maintainers = with maintainers; [ neosloth ];
   };
